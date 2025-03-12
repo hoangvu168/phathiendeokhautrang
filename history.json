@@ -1,0 +1,260 @@
+[
+    {
+        "image": "1412.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_1412.png"
+    },
+    {
+        "image": "1413.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_1413.png"
+    },
+    {
+        "image": "1414.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1414.png"
+    },
+    {
+        "image": "1417.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1417.png"
+    },
+    {
+        "image": "1433.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_1433.png"
+    },
+    {
+        "image": "1434.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1434.png"
+    },
+    {
+        "image": "1435.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1435.png"
+    },
+    {
+        "image": "1436.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1436.png"
+    },
+    {
+        "image": "1437.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1437.png"
+    },
+    {
+        "image": "1458.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1458.png"
+    },
+    {
+        "image": "80.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_80.png"
+    },
+    {
+        "image": "Augmented_102_5269410.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_102_5269410.png"
+    },
+    {
+        "image": "Augmented_103_4961418.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_103_4961418.png"
+    },
+    {
+        "image": "Augmented_104_6044175.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_104_6044175.png"
+    },
+    {
+        "image": "Augmented_105_187606.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_105_187606.png"
+    },
+    {
+        "image": "Augmented_107_799623.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_107_799623.png"
+    },
+    {
+        "image": "Augmented_108_7093446.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_108_7093446.png"
+    },
+    {
+        "image": "Augmented_117_9479645.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_117_9479645.png"
+    },
+    {
+        "image": "Augmented_121_7780995.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_121_7780995.png"
+    },
+    {
+        "image": "Augmented_122_9885756.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_122_9885756.png"
+    },
+    {
+        "image": "Augmented_123_2830652.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_123_2830652.png"
+    },
+    {
+        "image": "Augmented_121_7780995.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_121_7780995.png"
+    },
+    {
+        "image": "1412.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_1412.png"
+    },
+    {
+        "image": "1413.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_1413.png"
+    },
+    {
+        "image": "1414.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1414.png"
+    },
+    {
+        "image": "1417.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1417.png"
+    },
+    {
+        "image": "1433.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_1433.png"
+    },
+    {
+        "image": "1434.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1434.png"
+    },
+    {
+        "image": "1435.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1435.png"
+    },
+    {
+        "image": "1436.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1436.png"
+    },
+    {
+        "image": "1437.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1437.png"
+    },
+    {
+        "image": "1458.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_1458.png"
+    },
+    {
+        "image": "80.png",
+        "mask": 0,
+        "no_mask": 1,
+        "result_path": "result_80.png"
+    },
+    {
+        "image": "Augmented_102_5269410.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_102_5269410.png"
+    },
+    {
+        "image": "Augmented_103_4961418.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_103_4961418.png"
+    },
+    {
+        "image": "Augmented_104_6044175.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_104_6044175.png"
+    },
+    {
+        "image": "Augmented_105_187606.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_105_187606.png"
+    },
+    {
+        "image": "Augmented_107_799623.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_107_799623.png"
+    },
+    {
+        "image": "Augmented_108_7093446.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_108_7093446.png"
+    },
+    {
+        "image": "Augmented_117_9479645.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_117_9479645.png"
+    },
+    {
+        "image": "Augmented_121_7780995.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_121_7780995.png"
+    },
+    {
+        "image": "Augmented_122_9885756.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_122_9885756.png"
+    },
+    {
+        "image": "Augmented_123_2830652.png",
+        "mask": 1,
+        "no_mask": 0,
+        "result_path": "result_Augmented_123_2830652.png"
+    }
+]
